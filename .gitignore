@@ -1,0 +1,26 @@
+# Keil uVision project files
+*.uvproj
+*.uvprojx
+*.uvopt
+*.uvoptx
+
+# Keil build outputs
+*.lst
+*.obj
+*.cod
+*.map
+*.omf
+*.m51
+
+# Temporary and backup files
+*.bak
+*.tmp
+*.~*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Proteus temporary files
+*.dsn.bak
+*.log
